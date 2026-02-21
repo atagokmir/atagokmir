@@ -24,24 +24,10 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog-orange?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Production_Systems-FF6B35?style=for-the-badge&logo=siemens&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-Tang_Nano_9K-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,django,docker,git,vscode,linux,raspberrypi,cmake&perline=11" />
+  </a>
 </p>
 
 ---
@@ -56,22 +42,32 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atagokmir&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=atagokmir&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/atagokmir" alt="GitHub Contribution Chart"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atagokmir&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atagokmir/atagokmir/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
 
 ---
@@ -88,7 +84,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ata-gökmir-çetinel-9749a022b">
-    <img src="https://img.shields.io/badge/LinkedIn-Ata_Gökmir_Çetinel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ata_G%C3%B6kmir_%C3%87etinel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
