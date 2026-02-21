@@ -5,6 +5,10 @@
   Production Systems · Embedded Systems · FPGA · IoT · Python · C/C++
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Industrial+%26+Computer+Engineering+Student;FPGA+%7C+Embedded+Systems+%7C+IoT;Always+building+something+%F0%9F%94%A7" alt="Typing SVG"/>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -53,6 +57,14 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atagokmir&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atagokmir&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
+</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/atagokmir" alt="GitHub Contribution Chart"/>
