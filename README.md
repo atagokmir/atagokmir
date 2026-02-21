@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Industrial & Computer Engineering Student @ MEF University</b><br>
-  Embedded Systems · FPGA · IoT · Python · C/C++ · Production Systems
+  Production Systems · Embedded Systems · FPGA · IoT · Python · C/C++
 </p>
 
 ---
