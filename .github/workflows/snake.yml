@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # her gün gece 00:00 UTC'de çalışır
-  workflow_dispatch:        # manuel tetikleme için
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
