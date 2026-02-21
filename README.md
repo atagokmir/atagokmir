@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Verilog-orange?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Production_Systems-FF6B35?style=for-the-badge&logo=siemens&logoColor=white"/>
 </p>
 
 <p align="left">
