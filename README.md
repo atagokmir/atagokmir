@@ -63,10 +63,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atagokmir&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/atagokmir" alt="GitHub Contribution Chart"/>
 </p>
 
@@ -82,4 +78,12 @@
   <a href="mailto:cetinela@mef.edu.tr">
     <img src="https://img.shields.io/badge/MEF-cetinela@mef.edu.tr-003087?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ata-gökmir-çetinel-9749a022b">
+    <img src="https://img.shields.io/badge/LinkedIn-Ata_Gökmir_Çetinel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atagokmir.atagokmir" alt="Visitor Count"/>
 </p>
