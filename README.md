@@ -24,10 +24,20 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+**Languages & Frameworks**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,django,docker,git,vscode,linux,raspberrypi,cmake&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,django,docker,git,vscode,linux" />
   </a>
+</p>
+
+**Hardware & Embedded**
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-Tang_Nano_9K-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Production_Systems-FF6B35?style=for-the-badge&logo=siemens&logoColor=white"/>
 </p>
 
 ---
@@ -67,7 +77,7 @@
 ### 💬 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 </p>
 
 ---
@@ -83,7 +93,7 @@
     <img src="https://img.shields.io/badge/MEF-cetinela@mef.edu.tr-003087?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ata-gökmir-çetinel-9749a022b">
+  <a href="https://www.linkedin.com/in/ata-g%C3%B6kmir-%C3%A7etinel-9749a022b">
     <img src="https://img.shields.io/badge/LinkedIn-Ata_G%C3%B6kmir_%C3%87etinel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
