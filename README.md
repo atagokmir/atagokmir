@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ata 👋</h1>
 
 <p align="center">
-  <b>Industrial & Computer Engineering Student @ MEF University</b><br>
+  <b>Industrial & Computer Engineer @ MEF University</b><br>
   Production Systems · Embedded Systems · FPGA · IoT · Python · C/C++
 </p>
 
